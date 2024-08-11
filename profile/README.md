@@ -13,20 +13,29 @@
 
 # We use ...
 - <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-- Firebase 
-- CoreML
-- Object detection (Machine Learning)
+- <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=swift&logoColor=white">
+- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=swift&logoColor=white">
+- <img src="https://github.com/user-attachments/assets/7df77c57-6ae1-4a1e-a8b0-1c104ac74da6" width="30">
+    Object detection (Machine Learning)
 
 
 
 
 <br>
 <br>
+
+
+
+
+
 
 
 # Machine Learning with Mac
 
 <img src= "https://github.com/user-attachments/assets/d8627259-04ad-475d-ad1f-a44e67ee4719" width="600">
+
+
+https://github.com/user-attachments/assets/dd4a9cad-3d01-4780-ae2d-b937b9203894
 
 
 <br>
@@ -38,6 +47,8 @@
 
 <img src= "https://github.com/user-attachments/assets/82caaa7d-71d4-4190-b272-34bc674d9add" width="600">
 
+
+https://github.com/user-attachments/assets/b52d69e2-83c2-4661-b95e-3a0775fddb95
 
 <br>
 <br>
