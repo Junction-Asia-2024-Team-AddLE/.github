@@ -1,6 +1,5 @@
-# We are AddLE !
 
-## DitBool (딧불)
+# DitBool (딧불)
 
 <img src= "https://github.com/user-attachments/assets/b70686b7-cf9a-44ba-aff7-b3a4333a58f0" width="600">
 
